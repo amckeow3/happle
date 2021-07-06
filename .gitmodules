@@ -1,3 +1,6 @@
 [submodule "frontend-happle"]
 	path = frontend-happle
 	url = https://github.com/amckeow3/frontend-happle.git
+[submodule "happle-backend"]
+	path = happle-backend
+	url = https://github.com/amckeow3/backend-communal-app-sharing.git
